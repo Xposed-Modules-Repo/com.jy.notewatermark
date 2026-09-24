@@ -32,4 +32,4 @@ ColorOS 便签模块：决定分享长图底部留下什么，并把全部便签
 
 ## 源码
 
-[araea/note-watermark](https://github.com/araea/note-watermark)
+[araea/note-watermark · 实验视觉分支](https://github.com/araea/note-watermark/tree/feat/nothing-inspired-ui)。3.3.0 只重做设置界面，功能与设置保持不变；使用开放授权的 Doto 字体，无 Nothing 专有资产。
